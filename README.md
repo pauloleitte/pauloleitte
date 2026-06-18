@@ -1,5 +1,5 @@
 # 💫 About Me:
-Falling for FrontEnd tech in the moment work in Capco like Consultant Sr.
+Developer at Bradesco Bank
 
 
 ## 🌐 Socials:
